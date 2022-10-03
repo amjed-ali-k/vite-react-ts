@@ -4,7 +4,7 @@
   "description": "React Typescript Starter Template with Vite",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/uchihamalolan/vite-react-ts.git"
+    "url": "git+https://github.com/amjed-ali-k/vite-react-ts.git"
   },
   "keywords": [
     "vite",
@@ -12,9 +12,9 @@
     "starter",
     "template"
   ],
-  "author": "Malolan B. <uchihamalolan@gmail.com> (https://twitter.com/malolan12)",
+  "author": "Amjed Ali K <amjedmgm@gmail.com> (https://amjed_k.t.me)",
   "license": "MIT",
-  "homepage": "https://github.com/uchihamalolan/vite-react-ts",
+  "homepage": "https://github.com/amjed-ali-k/vite-react-ts",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
